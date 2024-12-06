@@ -29,7 +29,7 @@ const Banner = () => {
                         <Typewriter
                           options={{
                             strings: [
-                              "MERN Stack Developer",
+                              
                               "Frontend Developer",
                               "React Js Developer",
                             ],
